@@ -9,10 +9,10 @@ import skywindAI
 pygame.init()
 
 PLTYP1 = 'human'
-PLTYP2 = 'computer'
+PLTYP2 = 'human'
 
-play_music = True
-play_sound = True
+play_music = False
+play_sound = False
 
 T_MAX = 60
 T_MIN = 0.1
